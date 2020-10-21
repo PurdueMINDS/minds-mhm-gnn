@@ -1,4 +1,4 @@
 #! /bin/bash
 git add .
-git commit -m "bla"
+git commit -m "init"
 git push
